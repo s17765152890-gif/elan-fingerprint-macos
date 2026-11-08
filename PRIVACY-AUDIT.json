@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "scope": "source, app bundles, binary strings, uncompressed disk image bytes",
+  "personal_identifier_matches": 0,
+  "published_data": "approved hardware specifications only; existing GitHub account ownership remains visible",
+  "limitations": "This is an allowlist-based packaging review and known-identifier scan, not a proof against every possible metadata disclosure."
+}

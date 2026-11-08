@@ -1,0 +1,8 @@
+build/
+dist/
+.DS_Store
+*.dSYM/
+*.key
+*.p12
+*.log
+/vendor/libusb/libusb/version_describe.h
